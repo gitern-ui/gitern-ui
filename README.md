@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gitern-ui
 - 👀 I’m interested in ... a lot of random useless things
 - 🌱 I’m currently learning basic programming and gardening on the side
-- 💞️ I’m looking to collaborate on assignments, if that's even legal
+- 💞️ I’m looking to collaborate on assignments (CS50), if that's even legal
 - 📫 How to reach me ... tell me how 
 
 <!---
